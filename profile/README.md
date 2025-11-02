@@ -6,7 +6,7 @@
 [![Assided by OpenAI Codex](https://img.shields.io/badge/Powered%20by-OpenAI%20Codex-ffffff.svg?style=for-the-badge&logo=openai&logoColor=%23ffffff)](https://openai.com/)
 [![Assisted by Claude Code](https://img.shields.io/badge/Assisted%20by-Claude%20Code-BD653E.svg?style=for-the-badge&logo=anthropic&logoColor=%23BD653E)](https://www.anthropic.com/)
 [![⚠️ Vibe Coded](https://img.shields.io/badge/⚠️%20Vibe-Coded-F5C317.svg?style=for-the-badge&labelColor=808080)](#)
-[![✏️ License: ERR0R.DEV Open Use](https://img.shields.io/badge/✏️%20License-ERR0R.DEV%20Open%20Use-26C6D6.svg?style=for-the-badge&labelColor=808080)](/license.md)
+[![✏️ License: ERR0R.DEV Open Use](https://img.shields.io/badge/✏️%20License-ERR0R.DEV%20Open%20Use-26C6D6.svg?style=for-the-badge&labelColor=808080)](/profile/license.md)
 
 ---
 
